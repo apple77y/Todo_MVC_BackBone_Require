@@ -7,7 +7,7 @@
 ## Overview
 
 This program is made by using this [tutorial](https://github.com/tastejs/todomvc/tree/gh-pages/examples/backbone_require).  
-It is an example for me to practice learning Backbone, Require, NodeJS, MonboDB
+It is an example for me to practice learning Backbone, Require, NodeJS, MongoDB
 
 ## Getting started
 

@@ -1,6 +1,6 @@
 {
-  "name": "todo_backbone",
-  "version": "0.0.0",
+  "name": "todo_backbone_require",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -25,7 +25,21 @@
     "grunt-htmlhint": "^0.4.1",
     "time-grunt": "^1.2.1"
   },
-  "author": "",
+  "author": "apple77y",
   "license": "ISC",
-  "description": ""
+  "description": "> Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing API over a RESTful JSON interface.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apple77y/Todo_MVC_BackBone_Require.git"
+  },
+  "keywords": [
+    "todo",
+    "backbone",
+    "require",
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/apple77y/Todo_MVC_BackBone_Require/issues"
+  },
+  "homepage": "https://github.com/apple77y/Todo_MVC_BackBone_Require#readme"
 }

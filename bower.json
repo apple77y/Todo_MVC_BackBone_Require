@@ -1,6 +1,6 @@
 {
-  "name": "todo_backbone",
-  "version": "0.0.0",
+  "name": "todo_backbone_require",
+  "version": "0.1.0",
   "authors": [
     "apple77y <apple77y@gmail.com>"
   ],
@@ -22,7 +22,13 @@
     "text": "requirejs-text#~2.0.14",
     "requirejs": "~2.1.20"
   },
-  "description": "",
+  "description": "Tutorial of Todo_MVC_BackBone by using jQuery + underscore + BackBone + Require",
   "main": "",
-  "homepage": ""
+  "homepage": "https://github.com/apple77y/Todo_MVC_BackBone_Require",
+  "keywords": [
+    "todo",
+    "backbone",
+    "require",
+    "mongodb"
+  ]
 }
